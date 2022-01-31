@@ -1,0 +1,15 @@
+{
+    "version": "0.6.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/JetBrains/qodana-cli/releases/download/v0.6.5/qodana_0.6.5_windows_x86_64.tar.gz",
+            "bin": [
+                "qodana.exe"
+            ],
+            "hash": "60150ed2a6157aa7a45ba511b23201dafd618ff740adcbb33add448933103002"
+        }
+    },
+    "homepage": "https://github.com/JetBrains/qodana-cli",
+    "license": "Apache-2.0",
+    "description": "🔧 Run Qodana as fast as possible, with minimum effort required"
+}
