@@ -6,7 +6,7 @@
             "bin": [
                 "qodana.exe"
             ],
-            "hash": "d01360322995e88bb48b5023fb2913e8d33fb24017e5f8a52b1535a13ef1ac47"
+            "hash": "e4a8348f8c8c7b1868dbe06ee18032ea397674f9ddb4b3466b5f602b7fdf333c"
         }
     },
     "homepage": "https://github.com/JetBrains/qodana-cli",
