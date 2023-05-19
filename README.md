@@ -1,4 +1,6 @@
-Reposistory for Scoop (https://scoop.sh/)
+[![JetBrains team project](https://jb.gg/badges/team-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
+Reposistory of JetBrains utilities for Scoop (https://scoop.sh/)
 
 ## Usage
 
