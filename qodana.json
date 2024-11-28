@@ -1,19 +1,19 @@
 {
-    "version": "2024.2.8",
+    "version": "2024.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JetBrains/qodana-cli/releases/download/v2024.2.8/qodana_windows_x86_64.zip",
+            "url": "https://github.com/JetBrains/qodana-cli/releases/download/v2024.3.1/qodana_windows_x86_64.zip",
             "bin": [
                 "qodana.exe"
             ],
-            "hash": "16f4d1045b4fa1a3525baf4127e027efb5152859455e70910bec7b0885f28b5b"
+            "hash": "9e9044047bb0bde4eb820bd00b644f1c5001d14fda7700a2e2ede4c098c40e14"
         },
         "arm64": {
-            "url": "https://github.com/JetBrains/qodana-cli/releases/download/v2024.2.8/qodana_windows_arm64.zip",
+            "url": "https://github.com/JetBrains/qodana-cli/releases/download/v2024.3.1/qodana_windows_arm64.zip",
             "bin": [
                 "qodana.exe"
             ],
-            "hash": "a187d2553e9b0fb6ed23e7d42023901c25a4bfbca077221a7cf8fc96b8d70720"
+            "hash": "de4ef1a385136752c840d190c8445c757f4a0dddf88f9b4c4051b2d919bf9267"
         }
     },
     "homepage": "https://github.com/JetBrains/qodana-cli",
