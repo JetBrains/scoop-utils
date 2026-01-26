@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/JetBrains/teamcity-cli/releases/download/v0.1.0/tc_0.1.0_windows_x86_64.zip",
+            "bin": [
+                "tc.exe"
+            ],
+            "hash": "6f3f955fa63694d57d1b1d7edb0d9cb45913a9bc94f5dc1b77d8ab69d6bb7072"
+        },
+        "arm64": {
+            "url": "https://github.com/JetBrains/teamcity-cli/releases/download/v0.1.0/tc_0.1.0_windows_arm64.zip",
+            "bin": [
+                "tc.exe"
+            ],
+            "hash": "725ffd36d241d44d1a93290de319893e0870fa37237bc489ba5a9b01b64082d5"
+        }
+    },
+    "homepage": "https://github.com/JetBrains/teamcity-cli",
+    "license": "Apache-2.0",
+    "description": "A command-line interface for TeamCity CI/CD server"
+}
