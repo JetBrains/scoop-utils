@@ -1,0 +1,22 @@
+{
+    "version": "0.6.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/JetBrains/youtrack-cli/releases/download/v0.6.0/youtrack_0.6.0_windows_x86_64.zip",
+            "bin": [
+                "youtrack.exe"
+            ],
+            "hash": "39fb5b8cc8b51f4f74d8421b7916598ec62331e8d9d5c8bc0c4dc7f5ae29e443"
+        },
+        "arm64": {
+            "url": "https://github.com/JetBrains/youtrack-cli/releases/download/v0.6.0/youtrack_0.6.0_windows_arm64.zip",
+            "bin": [
+                "youtrack.exe"
+            ],
+            "hash": "ef7d348256c8597ca379010566010c4cfb10cdf580389ea1f33c70524b6670a2"
+        }
+    },
+    "homepage": "https://github.com/JetBrains/youtrack-cli",
+    "license": "Apache-2.0",
+    "description": "A command-line interface for JetBrains YouTrack"
+}
