@@ -1,19 +1,19 @@
 {
-    "version": "1.6.1",
+    "version": "1.6.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JetBrains/teamcity-cli/releases/download/v1.6.1/teamcity_1.6.1_windows_x86_64.zip",
+            "url": "https://github.com/JetBrains/teamcity-cli/releases/download/v1.6.2/teamcity_1.6.2_windows_x86_64.zip",
             "bin": [
                 "teamcity.exe"
             ],
-            "hash": "def6b16ac2bb5bcc1b083711b20e9c97778cfd2427cf488222f35d7548e6ab33"
+            "hash": "51eb953f0c0bc6a1990363d2cfd0ee9c34fef90ef989fc96f4395cf9c27b7184"
         },
         "arm64": {
-            "url": "https://github.com/JetBrains/teamcity-cli/releases/download/v1.6.1/teamcity_1.6.1_windows_arm64.zip",
+            "url": "https://github.com/JetBrains/teamcity-cli/releases/download/v1.6.2/teamcity_1.6.2_windows_arm64.zip",
             "bin": [
                 "teamcity.exe"
             ],
-            "hash": "68b017447b021be2f5c41253a26418a2ed990b6de5df12fc1ab7ad5357f0d928"
+            "hash": "0cd49d9dd9e2f653587a5e86cc27f46ee64ea912a1229037bedb6ee19187937c"
         }
     },
     "homepage": "https://github.com/JetBrains/teamcity-cli",
