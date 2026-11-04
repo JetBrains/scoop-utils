@@ -1,19 +1,19 @@
 {
-    "version": "0.7.1",
+    "version": "0.8.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JetBrains/youtrack-cli/releases/download/v0.7.1/youtrack_0.7.1_windows_x86_64.zip",
+            "url": "https://github.com/JetBrains/youtrack-cli/releases/download/v0.8.1/youtrack_0.8.1_windows_x86_64.zip",
             "bin": [
                 "youtrack.exe"
             ],
-            "hash": "9914f753667b2bf73adc5ff6efac6a48ab48e6fbabbf315a20be3cb58cf4eb17"
+            "hash": "fd028c2720cf8fd1c9983d6a04da13ee19f4aa0225d085758eb20a23b229e4dd"
         },
         "arm64": {
-            "url": "https://github.com/JetBrains/youtrack-cli/releases/download/v0.7.1/youtrack_0.7.1_windows_arm64.zip",
+            "url": "https://github.com/JetBrains/youtrack-cli/releases/download/v0.8.1/youtrack_0.8.1_windows_arm64.zip",
             "bin": [
                 "youtrack.exe"
             ],
-            "hash": "25bf9bfe76dd104762fbe37ea94162801c3dfa3da92a279ce20ddbd811c256e2"
+            "hash": "97a35da2f792694d8e4e0f9e40b12d33c2c3e5d3e9b1001082a8dbafb22c124c"
         }
     },
     "homepage": "https://github.com/JetBrains/youtrack-cli",
